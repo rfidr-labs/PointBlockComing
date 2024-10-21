@@ -7,13 +7,13 @@
 .container {
   width: 100vw;
   height: 100vh;
-  background-image: url('https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif?cid=ecf05e47xt6mcjc4euybna5fo72bmn2il19bjf9esq5jjcdw&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+  background-image: url('https://media.giphy.com/media/G0vaYbZDJV0cM/giphy.gif?cid=ecf05e47xt6mcjc4euybna5fo72bmn2il19bjf9esq5jjcdw&ep=v1_gifs_search&rid=giphy.gif&ct=g');
   background-position: center;
   background-size: cover;
   padding: 0 8%;
 }
 .logo {
-  width: 120px;
+  width: 250px;
   padding: 20px 0;
   cursor: pointer;
 }
@@ -21,7 +21,7 @@
   top: 50%;
   position: absolute;
   transform: translateY(-50%);
-  color: #fff;
+  color: #000000;
 }
 .content h1 {
   font-size: 40px;
@@ -32,17 +32,17 @@
 }
 .content button {
   background: transparent;
-  border: 2px solid #fff;
+  border: 2px solid #000000;
   outline: none;
   padding: 12px 25px;
-  color: #fff;
+  color: #000000;
   display: flex;
   align-items: center;
   margin-top: 30px;
   cursor: pointer;
 }
 .content button img {
-  width: 15px;
+  width: 25px;
   margin-left: 10px;
 }
 .launch-time {
