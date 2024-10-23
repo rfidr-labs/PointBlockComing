@@ -18,7 +18,7 @@
   cursor: pointer;
 }
 .content {
-  top: 75%;
+  top: 70%;
   position: absolute;
   transform: translateY(-50%);
   color: #000000;
